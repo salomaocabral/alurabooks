@@ -15,4 +15,4 @@ O projeto foi elaborado para praticar os conhecimentos de HTML e CSS incluindo r
 
 ## Abrir e rodar o projeto
 
-
+https://salomaocabral.github.io/alurabooks/
